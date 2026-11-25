@@ -1,6 +1,6 @@
 # Physics Lab Report Skill｜使用说明
 
-v1.1.0 用章节状态管理选做、分析任务与报告归属。普通使用者阅读本文件，执行规则见 [workflow_rules.md](references/workflow_rules.md)。
+v1.1.1 用章节状态管理选做、分析任务与报告归属。普通使用者阅读本文件，执行规则见 [workflow_rules.md](references/workflow_rules.md)。
 
 ## 1. 开始与继续
 
@@ -59,3 +59,7 @@ v1.1.0 用章节状态管理选做、分析任务与报告归属。普通使用�
 正式交付可能包含预习 TeX/PDF、记录表、分析程序、结果 Excel、图像、完整或合并报告及附录，以已确认任务为准。报告实际编译后检查，当前有效输入对应的必要交付验收通过后标记可提交。
 
 使用示例见 [quickstart](examples/quickstart.md)。可选个性化配置见 [personalization](references/personalization.md)，这些选项由用户和课程要求决定。
+
+## 8. 正文语气
+
+正文默认直接、自然、以证据支撑判断。实际方法限制在相关位置具体说明，同一限制避免反复铺陈。已有报告可以要求“保留文风和事实，删去防御性解释，合并重复限制”。
